@@ -29,7 +29,7 @@
     "lodash": "^4.17.13",
     "lodash.template": "^4.5.0",
     "lru-cache": "^4.0.1",
-    "moment": "^2.19.1",
+    "moment": "^2.29.2",
     "morgan": "^1.9.1",
     "native-dns": "^0.7.0",
     "natives": "^1.1.6",
